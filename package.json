@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/samoyedgaming/Olek-clone-this/issues"
   },
-  "homepage": "https://github.com/samoyedgaming/Olek-clone-this#readme"
+  "homepage": "https://github.com/samoyedgaming/Olek-clone-this#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
 }
